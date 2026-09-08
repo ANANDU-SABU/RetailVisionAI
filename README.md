@@ -29,4 +29,5 @@ The system processes CCTV footage and provides:
 Add the processed demonstration video to:
 
 ```text
-demo/retailvision-demo.mp4
+
+/retailvision_output.mp4
